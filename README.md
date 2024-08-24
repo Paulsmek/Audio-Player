@@ -1,4 +1,4 @@
-# Proiect GlobalWaves  - Etapa 2
+# Proiect GlobalWaves
 
 <div align="center"><img src="https://tenor.com/view/catjam-cat-jam-jamming-cute-gif-1340929034057342144.gif" width="350px"></div>
 
